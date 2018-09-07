@@ -1,3 +1,6 @@
+/* 
+	An ASCII game based on the racing brick_game with added features
+*/
 #include<iostream.h>
 #include<stdlib.h>
 #include<stdio.h>
