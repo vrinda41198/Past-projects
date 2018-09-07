@@ -1,3 +1,7 @@
+/*
+	A model of a movie ticket booking portal, based on the BookmyShow website using concepts of file management
+	and object oriented programming.
+*/
 #include<fstream.h>
 #include<stdio.h>
 #include<conio.h>
